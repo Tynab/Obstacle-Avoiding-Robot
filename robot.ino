@@ -12,7 +12,7 @@ int tienR = 7;
 int luiL = 6;
 int luiR = 4;
 
-// Declare
+// Declares
 void dithang();
 void disangtrai(int goc);
 void disangphai(int goc);
