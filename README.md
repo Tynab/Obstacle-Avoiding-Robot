@@ -1,2 +1,2 @@
-# Arduino-R3
+# OBSTACLE AVOIDING ROBOT
  Obstacle avoiding robot
