@@ -3,7 +3,7 @@
 
 ## IMAGE DEMO
 <p align="center">
-<img src="https://raw.githubusercontent.com/Tynab/PIC-16F877A/main/pic/0.jpg"></img>
+<img src="https://raw.githubusercontent.com/Tynab/Obstacle-Avoiding-Robot/main/pic/0.jpg"></img>
 </p>
 
 ## VIDEO DEMO
