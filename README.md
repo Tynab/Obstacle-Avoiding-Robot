@@ -1,5 +1,5 @@
 # OBSTACLE AVOIDING ROBOT
- Arduino Uno R3
+ Arduino Uno R3.
 
 ## IMAGE DEMO
 <p align='center'>
